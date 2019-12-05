@@ -1,12 +1,6 @@
-# 
-
-
-
-
-
 # ZBar Build
 
-[![Version](https://img.shields.io/badge/zbar build-1.16-blue.svg)](https://github.com/ChenZeFengHi/material-palette)  [![Material Design](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/ChenZeFengHi/material-palette)
+[![zbar](https://img.shields.io/badge/zbar%20build-1.16-blue.svg)](https://github.com/ChenZeFengHi/material-palette)  [![Material Design](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/ChenZeFengHi/material-palette)
 
 
 
@@ -14,12 +8,15 @@ ZBarBuild 是负责生成so、jar的源码
 
 
 
->* ZBar的示例项目： https://github.com/ChenZeFengHi/zbar-android
 >* 使用了最新版本的libiconv库进行编译，版本号：1.16；下载地址： http://www.gnu.org/software/libiconv/
 >* 重新修改ZBar对中文的支持，并且可以解析GBK，UTF-8格式生成的二维码图片
 >* 使用最新的ndk-r10d进行ndk-build，支持64位cpu
 
 
+
+**项目示例**
+
+> * ZBar的示例项目： https://github.com/ChenZeFengHi/zbar-android
 
 
 
